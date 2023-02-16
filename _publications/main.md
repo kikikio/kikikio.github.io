@@ -8,6 +8,7 @@ redirect_from:
   - /publications.html
 ---
 
+
 6.Songwei Zheng, Dong Zhang, Chunyan Yu, Danhong Zhu, **Longlong Zhu**, Hao liu, Zhongzheng Huang.
 
 Vision Transformer with Progressive Tokenization for CT Metal Artifact Reduction.
