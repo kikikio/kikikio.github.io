@@ -85,10 +85,8 @@ author:
   bio              : "Maste Student at FZU"
   location         : "Fuzhou, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5AgMspsAAAAJ&hl=zh-CN"
   email            : "kikionepin@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +98,6 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0001-6128-3065"
