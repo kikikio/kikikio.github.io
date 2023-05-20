@@ -8,6 +8,23 @@ redirect_from:
   - /publications.html
 ---
 
+9.Jiashuo Yu, Long Huang, **Longlong Zhu**, Dong Zhang, Chunming Wu.
+
+DTRadar: Accelerating Search Process of Decision Trees in Packet Classification.
+
+IEEE ISCC 2023. (CCF C)
+
+8.Hang Lin, Weiwei Lin, Jing Lin, **Longlong Zhu**, Dong Zhang, Chunming Wu.
+
+P4CTM: Compressed Traffic Pattern Matching Based on Programmable Data Plane.
+
+IEEE ISCC 2023. (CCF C)
+
+7.Hanze Chen, Feng Xiao, Lingfei Cheng, **Longlong Zhu**, Dong Zhang.
+
+A Network Function Virtualization Resource Allocation Model Based on Heterogeneous Computing.
+
+IEEE ISCC 2023. (CCF C)
 
 6.Songwei Zheng, Dong Zhang, Chunyan Yu, Danhong Zhu, **Longlong Zhu**, Hao liu, Zhongzheng Huang.
 
